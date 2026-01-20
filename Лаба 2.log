@@ -1,0 +1,4 @@
+﻿  Лаба 2.cpp
+C:\Users\Hitler_Nagibator\Desktop\Прога\Лаба 2\Лаба 2.cpp(42,36): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\Hitler_Nagibator\Desktop\Прога\Лаба 2\Лаба 2.cpp(44,34): warning C4305: инициализация: усечение из "double" в "float"
+  Лаба 2.vcxproj -> C:\Users\Hitler_Nagibator\Desktop\Прога\Лаба 2\x64\Debug\Лаба 2.exe
